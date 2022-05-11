@@ -1,0 +1,26 @@
+##############################
+# Python Code (Main Sources) #
+##############################
+Maksin, E. (2021). COVID-19 Literature Clustering. https://www.kaggle.com/code/maksimeren/covid-19-literature-clustering/notebook
+
+Prabhakaran, S. (2018).Topic Modeling with Gensim (Python). https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/
+
+#######################################
+# References (NLP and Topic Modeling) #
+#######################################
+Brank, J., Mladenić, D., Grobelnik, M., & Milić-Frayling, N. (2008). Feature selection for the classification of large document collections. Journal of Universal Computer Science, 14(10), 1562–1596. https://doi.org/10.3217/jucs-014-10-1562
+
+Geigle, C., Mei, Q., & Zhai, C. (2018). Feature engineering for text data. In G. Dong & H. Liu (Eds.), Feature engineering for machine learning and data analytics (pp. 15–54). CRC Press.
+
+Kalyan, K. S., & Sangeetha, S. (2020). SECNLP: A survey of embeddings in clinical natural language processing. Journal of Biomedical Informatics, 101, 103323. https://doi.org/10.1016/j.jbi.2019.103323
+
+Nadkarni, P. M., Ohno-Machado, L., & Chapman, W. W. (2011). Natural language processing: An introduction. Journal of the American Medical Informatics Association, 18(5), 544–551. https://doi.org/10.1136/amiajnl-2011-000464
+
+Neumann, M., King, D., Beltagy, I., & Ammar, W. (2019). ScispaCy: Fast and robust models for biomedical natural language processing. In D. Demner-
+Fushman, K. B. Cohen, S. Ananiadou, & J. Tsujii (Eds.), Proceedings of the 18th BioNLP Workshop and Shared Task (pp. 319–327). Association for Computational Linguistics. https://doi.org/10.18653/v1/W19-5034
+
+Nothman, J., Qin, H., & Yurchak, R. (2018). Stop word lists in free open-source software packages. Proceedings of Workshop for NLP Open Source Software (NLP-OSS), 7–12. https://doi.org/10.18653/v1/W18-2502
+
+Řehůřek, R., & Sojka, P. (2010). Software framework for topic modelling with large corpora. Proceedings of the LREC 2010 Workshop on New Challenges for NLP Frameworks, 45–50.
+
+Wang, Y., Liu, S., Afzal, N., Rastegar-Mojarad, M., Wang, L., Shen, F., Kingsbury, P., & Liu, H. (2018). A comparison of word embeddings for the biomedical natural language processing. Journal of Biomedical Informatics, 87, 12–20. https://doi.org/10.1016/j.jbi.2018.09.008
