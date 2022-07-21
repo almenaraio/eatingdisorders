@@ -1,21 +1,27 @@
 
 <b>40 years of research on eating disorders in domain-specific journals: Bibliometrics, network analysis, and topic modeling</b>
 <br><a href='https://almenara.io'>Carlos A. Almenara</a>
+<br>
+<font color="#dadada">Original Upload Date: Nov 7, 2020</font>
 <br><br>
 
 <b>Abstract</b>
 <br>
-	Previous studies have used a query-based approach to search and gather scientific literature. Instead, the current study focused on domain-specific journals in the field of eating disorders. A total of 8651 documents (since 1981 to 2020) were retrieved from: International Journal of Eating Disorders (n = 4185, 48.38%), Eating and Weight Disorders (n = 1540, 17.80%), European Eating Disorders Review (n = 1461, 16.88%), Eating Disorders (n = 1072, 12.39%), and Journal of Eating Disorders (n = 393, 4.54%). To analyze these data, diverse methodologies were employed: bibliometrics (to identify top cited documents), network analysis (to identify the most representative scholars and collaboration networks), and topic modeling (to retrieve major topics using text mining, natural language processing, and machine learning algorithms). The results showed that the most cited documents were related to instruments used for the screening and evaluation of eating disorders, followed by review articles related to the epidemiology, course and outcome of eating disorders. Network analysis identified well-known scholars in the field, as well as their collaboration networks. Finally, topic modeling identified 10 major topics whereas a time series analysis of these topics identified relevant historical shifts. This study discusses the results in terms of future opportunities in the field of eating disorders.
+	Previous studies have used a query-based approach to search and gather scientific literature. Instead, the current study focused on domain-specific journals in the field of eating disorders. A total of 8651 documents (since 1981 to 2020), of whom 7899 had an abstract, were retrieved from: International Journal of Eating Disorders (n = 4185, 48.38%), Eating and Weight Disorders (n = 1540, 17.80%), European Eating Disorders Review (n = 1461, 16.88%), Eating Disorders (n = 1072, 12.39%), and Journal of Eating Disorders (n = 393, 4.54%). To analyze these data, diverse methodologies were employed: bibliometrics (to identify top cited documents), network analysis (to identify the most representative scholars and collaboration networks), and topic modeling (to retrieve major topics using text mining, natural language processing, and machine learning algorithms). The results showed that the most cited documents were related to instruments used for the screening and evaluation of eating disorders, followed by review articles related to the epidemiology, course and outcome of eating disorders. Network analysis identified well-known scholars in the field, as well as their collaboration networks. Finally, topic modeling identified 10 major topics whereas a time series analysis of these topics identified relevant historical shifts. This study discusses the results in terms of future opportunities in the field of eating disorders.
 <br><br>
 <i><b>Keywords:</b> eating disorders, big data, data mining, bibliometrics, social network analysis, machine learning, natural language processing, topic modeling</i>
 
-<br>
+<br><br>
+<b>Paper citation (preprint)</b>
+<br><br>
+Almenara, C. A. (2022, preprint). 40 years of research on eating disorders in domain-specific journals: Bibliometrics, network analysis, and topic modeling. https://doi.org/10.31234/osf.io/hxwez
+<br><br><br>
 <b> Python Code (Main Sources) </b>
 <br><br>
 Maksin, E. (2021). COVID-19 Literature Clustering. https://www.kaggle.com/code/maksimeren/covid-19-literature-clustering/notebook
 <br>
 Prabhakaran, S. (2018).Topic Modeling with Gensim (Python). https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/
-<br><br>
+<br><br><br>
 
 <b> References (NLP and Topic Modeling) </b>
 <br><br>
