@@ -12,9 +12,9 @@
 <i><b>Keywords:</b> eating disorders, big data, data mining, bibliometrics, social network analysis, machine learning, natural language processing, topic modeling</i>
 
 <br><br>
-<b>Paper citation (preprint)</b>
+<b>Article citation (APA style)</b>
 <br><br>
-Almenara, C. A. (2022, preprint). 40 years of research on eating disorders in domain-specific journals: Bibliometrics, network analysis, and topic modeling. https://doi.org/10.31234/osf.io/hxwez
+Almenara, C. A. (2022). 40 years of research on eating disorders in domain-specific journals: Bibliometrics, network analysis, and topic modeling. <i>PloS One, 17</i>(12), e0278981. <a href>https://doi.org/10.1371/journal.pone.0278981</a>
 <br><br><br>
 <b> Python Code (Main Sources) </b>
 <br><br>
